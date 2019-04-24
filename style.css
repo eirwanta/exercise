@@ -1,0 +1,19 @@
+h2{
+	text-decoration: underline;
+}
+
+body {
+	background-color: lightblue;
+	font-family: Arial;
+	font-size: 20px;
+	line-height: 30px;
+	background-repeat: no-repeat;
+}
+
+div {
+  position: static;
+  margin: 20px;
+  border: 10px solid blue;
+  padding: 10px;
+  left: 10px;
+}
